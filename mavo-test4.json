@@ -1,0 +1,16 @@
+{
+	"athlete": [
+		{
+			"first_name": "Shauna",
+			"last_name": "Coxsey",
+			"nation": "GBR",
+			"born": "1990"
+		},
+		{
+			"first_name": "Markku",
+			"last_name": "Laine",
+			"nation": "FIN",
+			"born": "1977"
+		}
+	]
+}
