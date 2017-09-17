@@ -5,7 +5,8 @@
 			"taskTitle": "Task 1"
 		},
 		{
-			"done": false
+			"done": false,
+			"taskTitle": "T"
 		}
 	]
 }
