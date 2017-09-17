@@ -3,6 +3,9 @@
 		{
 			"done": false,
 			"taskTitle": "Task 1"
+		},
+		{
+			"done": false
 		}
 	]
 }
