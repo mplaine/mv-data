@@ -5,8 +5,8 @@
 			"taskTitle": "Tee ruokaa"
 		},
 		{
-			"done": true,
-			"taskTitle": "Leiki lasten kanssa"
+			"done": false,
+			"taskTitle": "Leiki tyttöjen kanssa"
 		}
 	],
 	"@type": "todo"
