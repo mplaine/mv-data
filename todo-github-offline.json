@@ -2,7 +2,7 @@
 	"task": [
 		{
 			"done": false,
-			"taskTitle": "Test the offline plugin"
+			"taskTitle": "Test offline plugin"
 		}
 	]
 }
