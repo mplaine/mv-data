@@ -2,6 +2,10 @@
 	"task": [
 		{
 			"done": false,
+			"taskTitle": "Test 1"
+		},
+		{
+			"done": false,
 			"taskTitle": "Test 3"
 		}
 	]
