@@ -2,6 +2,10 @@
 	"task": [
 		{
 			"done": false,
+			"taskTitle": "Email Valter"
+		},
+		{
+			"done": false,
 			"taskTitle": "Test the offline plugin"
 		}
 	]
